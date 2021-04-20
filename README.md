@@ -26,6 +26,8 @@ The runnig time for each option is shown bellow:
 - time_running_selenium_by_row:  0:00:49.721204
 - time_running_selenium_by_column:  0:00:53.147911
 
+Finally, an example of data scraped can be seen here: [rfb_data.csv](./rfb_data.csv)
+
 ---
 	
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
