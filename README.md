@@ -8,7 +8,7 @@
 ## ⚙️ Project demonstration (demontração do projeto)
 The algorithm scraps the public Answer to Advance from the Brazilian Federal Revenue Office website, and salve them in a CSV file.
 
-<p align="center"> <img alt="example_of_data.jpg" title="example_of_data.jpg" src="./assets/example_of_data.jpg" width="800px">
+<p align="center"> <img alt="example_of_data.JPG" title="example_of_data.JPG" src="./assets/example_of_data.JPG" width="800px">
 
 On this project, using BeautifulSoup (BS) or Selenium packages, I developed four different scripts to scrap, so I would be able to compare their efficiency.
 The options available are:
