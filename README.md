@@ -1,6 +1,6 @@
 # Tax-Instruction-Scrap
 ## 💻 About this project (sobre este projeto)
-:us: This project aimed to scrap the public Answer to Advance from the Brazilian Federal Revenue Office website, and salve them in a CSV file.
+:us: This project aimed to scrap the public Answer to Advance from the Brazilian Federal Revenue Office website, and save them in a CSV file.
 
 :brazil: Este projeto teve por objetivo obter as soluções de consultas públicas no site da Receita Federal do Brasil, e salvá-las em um documento CSV.
 
