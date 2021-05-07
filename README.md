@@ -37,9 +37,9 @@ Finally, an example of data scraped can be seen here: [rfb_data.csv](./rfb_data.
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - pending to be written;
-  - pending to be written; and
-  - pending to be written.
+  - use **object-oriented programming (OOP)** to create reusable codes for future programming;
+  - scrap website information using BeautifulSoup and Selenium; and
+  - find the most efficient algorithm based on its performance: i.e. comparing the performance of BeautifulSoup (BS) and Selenium. By doing so, it was possible to reduce 10 times the time running time **(from 53 seconds to 05 seconds)**.
 
 ---
 
